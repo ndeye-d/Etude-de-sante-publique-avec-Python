@@ -1,1 +1,1 @@
-# Etude de santé public avec Python
+# Etude de santé publique avec Python
